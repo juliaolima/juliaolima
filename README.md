@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaolima&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>habilidades</h2>
+<h2>Habilidades</h2>
 
 <div style="display: inline_block"><br>
   <img loading="ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="40"/> 
