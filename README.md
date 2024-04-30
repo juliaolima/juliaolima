@@ -5,9 +5,9 @@
 
 <p> :computer: Atualmente estudo Desing, JavaScript, HTML e CSS
 <p> :art: Artista de cenários e personágens 3D
- 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaolima&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/juliaolima">
+  <img height="180em" src="http://github-readme-stats-rho-one-48.vercel.app/api?username=juliaolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <h2>Habilidades</h2>
 <div style="display: inline_block"><br>
