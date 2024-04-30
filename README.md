@@ -6,9 +6,11 @@
 <p> :computer: Atualmente estudo Desing, JavaScript, HTML e CSS
 <p> :art: Artista de cenários e personágens 3D
 
+<div> 
  <a href="https://github.com/juliaolima">
   <img height="180em" src="http://github-readme-stats-rho-one-48.vercel.app/api?username=juliaolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+</div>
+  
 <h2>Habilidades</h2>
 <div style="display: inline_block"><br>
   <img loading="ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="40"/> 
