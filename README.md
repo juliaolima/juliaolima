@@ -1,7 +1,7 @@
 ### Olá! sou a Julia! :cherry_blossom:
 
 
-<img align= "right" src="https://github.com/juliaolima/juliaolima/blob/main/juju%20computer.png" width="300"></h1>
+<img align= "right" src="https://github.com/juliaolima/juliaolima/blob/main/juju%20computer.png" width="300">
 
 <p> :computer: Atualmente estudo Desing, JavaScript, HTML e CSS
 <p> :art: Artista de cenários e personágens 3D
