@@ -13,11 +13,11 @@
   
 <h2>Habilidades</h2>
 <div style="display: inline_block"><br>
-  <img loading="ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="40"/> 
-  <img loading="pr" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="50" height="40"/> 
-  <img loading="il" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="50" height="40"/> 
-  <img loading="ae" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="50" height="40"/> 
-  <img loading="bl" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="40"/>          
+  <img loading="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="40"/> 
+  <img loading="premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="50" height="40"/> 
+  <img loading="ilustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="50" height="40"/> 
+  <img loading="after effects" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="50" height="40"/> 
+  <img loading="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="40"/>          
 </div>
 
 <h2>Contatos</h2>
